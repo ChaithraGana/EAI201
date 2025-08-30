@@ -22,7 +22,7 @@ int main(){
     cin>>shape;
    
     while(true){
-    cout<<"enter command(start,stop,left,right,suck):";
+    cout<<"enter command(start,stop,left,right,suck,dock):";
     cin>>command;
     
     if(command=="start"){
@@ -76,4 +76,10 @@ int main(){
             cout<<"already stopped"<<endl;
         }
     }
-}}
+    if(command=="dock"){
+        cout<<"Docking and shutting down. Thank you for using the vacuum cleaner!!"<<endl;
+        break;
+        }
+    }
+    return 0;
+}
