@@ -1,0 +1,34 @@
+Python 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 16:30:00) [MSC v.1900 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+>>> 
+============================================================== RESTART: C:/Users/GANA/Desktop/ChaithraGana/StudentGradingg.py ==============================================================
+enter number of students: 2
+
+ enter details of student1 
+enter student name: manu
+enter number of subjects: 2
+enter subject 1 name: DSA
+enter marks for DSA: 75
+enter subject 2 name: MATHS
+enter marks for MATHS: 80
+
+ report card for manu
+DSA:Marks = 75,Grade = B+
+MATHS:Marks = 80,Grade = B+
+Total percentage:77.50%
+final grade:B+
+
+ enter details of student2 
+enter student name: KUSUMA
+enter number of subjects: 2
+enter subject 1 name: DSA
+enter marks for DSA: 80
+enter subject 2 name: MATHS
+enter marks for MATHS: 75
+
+ report card for KUSUMA
+DSA:Marks = 80,Grade = B+
+MATHS:Marks = 75,Grade = B+
+Total percentage:77.50%
+final grade:B+
+>>> 
